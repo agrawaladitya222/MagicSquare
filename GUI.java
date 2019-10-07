@@ -1,3 +1,7 @@
+//Aditya Agrawal
+// October 7, 2019
+//Magic Square Program
+//Magic Square program will take a user input square and output if it is a magic square
 package proyecto;
 
 import javax.swing.*;
